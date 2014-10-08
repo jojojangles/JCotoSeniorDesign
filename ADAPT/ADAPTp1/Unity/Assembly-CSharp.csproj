@@ -155,6 +155,8 @@
      <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial1\TutorialCoordinator.cs" />
      <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial2\Completed\TutorialSteeringCoordinatorCompleted.cs" />
      <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial2\Completed\TutorialWaypointCompleted.cs" />
+     <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial2\TutorialSteeringCoordinator.cs" />
+     <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial2\TutorialWaypoint.cs" />
      <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial3\Completed\TutorialGesturesCompleted.cs" />
      <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial3\Completed\TutorialLookPointCompleted.cs" />
      <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial3\Completed\TutorialReachPointCompleted.cs" />
