@@ -161,6 +161,10 @@
      <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial3\Completed\TutorialLookPointCompleted.cs" />
      <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial3\Completed\TutorialReachPointCompleted.cs" />
      <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial3\Completed\TutorialWaypoint2Completed.cs" />
+     <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial3\TutorialGestures.cs" />
+     <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial3\TutorialLookPoint.cs" />
+     <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial3\TutorialReachPoint.cs" />
+     <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial3\TutorialWaypoint2.cs" />
      <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial4\Completed\TutorialIdleBehaviorCompleted.cs" />
      <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial4\Completed\TutorialInvokeEventCompleted.cs" />
      <Compile Include="Assets\ADAPT Core\Tutorials\Tutorial4\Completed\TutorialWanderBehaviorCompleted.cs" />
